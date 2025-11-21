@@ -105,3 +105,9 @@ HODA dataset:MetricScore
 
 
 The model was trained on [50,000] samples and tested on [10,000] samples at a [25x25] resolution.
+
+---
+# Deployment Link
+The interactive Streamlit application is deployed and available online.
+
+➡️ LIVE DEMO: https://predict-persian-digit.streamlit.app/
